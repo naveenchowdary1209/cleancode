@@ -21,7 +21,7 @@ System.out.format("\n the Compound interest is:"+CI);
 }
 class interests
 {
-    public static void main (String arg[ ])
+public static void main(String args[])
 {
     double principal, rateofinterest, time, SI,CI;
      sici  obj=new sici();
